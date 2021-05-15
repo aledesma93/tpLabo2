@@ -10,7 +10,7 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
+#include "utn.h"
 #include <string.h>
 #include "empleado.h"
 #define LISTA 1000
